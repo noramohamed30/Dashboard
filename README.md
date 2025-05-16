@@ -36,4 +36,8 @@ The dashboard includes the following KPIs and visualizations:
 4. Analyze KPIs, trends, and performance across different categories.
 
 ## 📁 File Structure
-
+project/
+│
+├── project.pbix # Power BI report file
+├── img.jpg # Dashboard preview image
+└── README.md # This file
